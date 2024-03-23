@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  zipcode: 12345
+  data: ""
+
+two:
+  zipcode: 23456
+  data: ""
