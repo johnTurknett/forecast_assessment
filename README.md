@@ -35,6 +35,7 @@ Responds to GET /api/v1/national_weather_service/for_zipcode
 This is a standard rails application, so you can access it like any other application.
 
 - `bundle install`
+- `rails db:migrate`
 - `bin/dev`
 - http://localhost:3000
 - http://localhost:3000/api/v1/national_weather_service/for_zipcode
