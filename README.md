@@ -34,6 +34,7 @@ Responds to GET /api/v1/national_weather_service/for_zipcode
 
 This is a standard rails application, so you can access it like any other application.
 
+- create `config/master.key` (806dadeda5840c69ed2d3e2ea7840054)
 - `bundle install`
 - `rails db:migrate`
 - `bin/dev`
